@@ -1,16 +1,22 @@
+# 👋 Hi, I'm Sathish – aka ByteBySathish
 
+🎓 AI & ML Student | Python Developer | Tech Explorer  
+💻 I love solving problems with code, building smart ML models, and learning new tech every day!
 
-<!--
-**bytebysathish/bytebysathish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills
+- Python, C++
+- Machine Learning, Deep Learning (beginner)
+- OpenCV, scikit-learn, Pandas, Matplotlib
+- Git & GitHub, Google Colab
 
-Here are some ideas to get you started:
+## 📂 Projects
+- 🔍 Face Detection App using OpenCV
+- 🎓 Student Marks Predictor
+- 🤖 Simple Chatbot using Python
+- 🎵 Music Genre Classifier
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me:
+- LinkedIn: [linkedin.com/in/bytebysathish](#)
+- GitHub: [github.com/ByteBySathish](#)
+
+> "One byte at a time, building the future." 🚀
